@@ -1,5 +1,7 @@
 # Narjes Abbaspour
 
+[![Typing animation: iOS engineer in Berlin. I engineer with taste, AI builds at speed. Building an empire with AI.](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=008080&vCenter=true&width=520&height=40&lines=iOS+engineer+in+Berlin;I+engineer+with+taste,+AI+builds+at+speed;Building+an+empire+with+AI)](https://github.com/narjes-abs)
+
 iOS engineer in Berlin. Swift since 2016, 15+ apps.
 I care about clear code and changes that are explained and reviewed. Most of my work lives in private company repositories, so this page shows the public part.
 
